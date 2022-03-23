@@ -1,5 +1,5 @@
 # lorem-ipsum-generator
-(https://lorem-ipsum-generator-01.netlify.app/)
+https://lorem-ipsum-generator-01.netlify.app/
 
 # Getting Started with Create React App
 
